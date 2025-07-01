@@ -6,9 +6,9 @@ Dive into my latest insights and discoveries in the world of development. Below 
 
 Here is a list of my published blogs, displayed in descending order with the latest posts at the top:
 
-10. [Demystifying @dynamicMemberLookup and @dynamicCallable for Advanced Swift Metaprogramming](https://medium.com/@dhrumilraval212/demystifying-dynamicmemberlookup-and-dynamiccallable-for-advanced-swift-metaprogramming-8e4f827ef680)
+10 [Demystifying @dynamicMemberLookup and @dynamicCallable for Advanced Swift Metaprogramming](https://medium.com/@dhrumilraval212/demystifying-dynamicmemberlookup-and-dynamiccallable-for-advanced-swift-metaprogramming-8e4f827ef680)
 
-9. [Beyond @main: Exploring Advanced Swift Macro Techniques](https://medium.com/@dhrumilraval212/beyond-main-exploring-advanced-swift-macro-techniques-633f5bd5fb63)
+9 [Beyond @main: Exploring Advanced Swift Macro Techniques](https://medium.com/@dhrumilraval212/beyond-main-exploring-advanced-swift-macro-techniques-633f5bd5fb63)
     
 8. [Beyond @State: Forging Your Own SwiftUI Property Wrappers](https://medium.com/@dhrumilraval212/beyond-state-forging-your-own-swiftui-property-wrappers-ac3fda744ab1)
 
