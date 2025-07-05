@@ -6,7 +6,7 @@ Dive into my latest insights and discoveries in the world of development. Below 
 
 Here is a list of my published blogs, displayed in descending order with the latest posts at the top:
 
-13: [https://medium.com/@dhrumilraval212/main-guide-ultimate-migration-from-windows-to-mac-a-practical-beginners-guide-dfe83dc80b37] (https://medium.com/@dhrumilraval212/main-guide-ultimate-migration-from-windows-to-mac-a-practical-beginners-guide-dfe83dc80b37)
+13: [Main Guide: Ultimate Migration from Windows to Mac — A Practical Beginner’s Guide] (https://medium.com/@dhrumilraval212/main-guide-ultimate-migration-from-windows-to-mac-a-practical-beginners-guide-dfe83dc80b37)
 
 12: [Unlock Your Mac’s Hidden Genius: 10 Secrets They Never Told You] (https://medium.com/@dhrumilraval212/unlock-your-macs-hidden-genius-10-secrets-they-never-told-you-3b30d7629b36)
 
